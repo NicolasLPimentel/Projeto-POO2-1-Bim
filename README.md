@@ -1,2 +1,2 @@
-# Projetos-POO-2025
-Projetos escolares da disciplina Programação Orientada a Objetos (POO)
+# Projeto POO2 do 1° bimestre
+Projeto escolar da disciplina Programação Orientada a Objetos II 
